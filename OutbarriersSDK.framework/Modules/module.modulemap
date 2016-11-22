@@ -1,0 +1,6 @@
+framework module OutbarriersSDK {
+  umbrella header "OutbarriersSDK.h"
+
+  export *
+  module * { export * }
+}
