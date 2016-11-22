@@ -16,7 +16,7 @@ Sample of usage of Outbarriers SDK for iOS.
     ```
 2. Open `Info.plist` to add your Outbarriers API credentials (`OutbarriersAPIKey` and `OutbarriersAPISecret`). Add `NSLocationAlwaysUsageDescription` to allow Location Services to detect Outbarriers' Beacons.
 
-![Edit Info.plist to add credentials and message to allow Location Services](add-credentials-api-outbarriers.jpg "Edit Info.plist to add credentials and message to allow Location Services")
+    ![Edit Info.plist to add credentials and message to allow Location Services](add-credentials-api-outbarriers.jpg "Edit Info.plist to add credentials and message to allow Location Services")
 
 3. _It's done!_ Now you can test it :)
 
