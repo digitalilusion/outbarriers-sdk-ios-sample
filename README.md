@@ -11,6 +11,7 @@ Sample of usage of Outbarriers SDK for iOS.
 
 1. Clone this repository
 
+
     ```bash
     git clone https://github.com/digitalilusion/outbarriers-sdk-ios-sample.git
     ```
@@ -19,6 +20,8 @@ Sample of usage of Outbarriers SDK for iOS.
     ![Edit Info.plist to add credentials and message to allow Location Services](add-credentials-api-outbarriers.jpg "Edit Info.plist to add credentials and message to allow Location Services")
 
 3. _It's done!_ Now you can test it :)
+
+    ![Sample App Screenshot](screenshot-sample.png "Sample App Screenshot")
 
 ## More information
 
